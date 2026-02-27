@@ -10,3 +10,8 @@ Designed to be hanged on existing screws.
 1. If you want to make a custom module for your need simply edit the blank.step from the CAD folder.
 2. Printing: I recommend putting a G-CODE stop inside the slicer to the point where the hole for the magnet is printed but it's still not closed off.
 Or you can just manually look and stop it when you see it's at that point.
+
+## BOM:
+- 1x Wall base 
+- 4x Modules
+- 32x 5x2mm round magnets

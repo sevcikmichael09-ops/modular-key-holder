@@ -1,6 +1,6 @@
 # Modular key holder
 Modular key holder box with wall mounting holes and 4x slots for customizable modules.
-![hanged on wall]
+![hanged on wall](onwall.png)
 
 Wanted a nice looking key holder box that could easily be used for smart home projects or modified after being placed on the wall.
 Achieved that by making modules with 4 5x2 mm rounded magnets.
